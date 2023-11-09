@@ -1,0 +1,68 @@
+.line_intro {
+    text-decoration: none;
+    font-weight: bolder;
+    color: pink;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: black;
+    font-size: 20px;
+    display: inline;
+}
+
+.line_intro:hover {
+    color: red;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: black;
+    font-size: 25px;
+}
+
+.line_M {
+    text-decoration: none;
+    font-weight: bolder;
+    color: skyblue;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: black;
+    font-size: 20px;
+    display: inline;
+}
+
+.line_M:hover {
+    color: blue;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: black;
+    font-size: 25px;
+}
+
+.book_img {
+    display: inline;
+    position: absolute;
+    left: 450px;
+    top: 320px;
+}
+
+.univ_img{
+    display: inline;
+    position: absolute;
+    left: 300px;
+    top: 320px;
+}
+
+.java_img{
+    display: inline;
+    position: absolute;
+    left: 250px;
+    top: 470px;
+}
+
+.kotlin_img{
+    display: inline;
+    position: absolute;
+    left: 380px;
+    top: 530px;
+}
+
+.spring_img{
+    display: inline;
+    position: absolute;
+    left: 250px;
+    top: 580px;
+}
